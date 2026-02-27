@@ -3,7 +3,8 @@ Creates shifted-variants of a given dataset for simulating realistic/challenging
 
 📄 **Paper (TNNLS, accepted):** *GeNeX: Genetic Network eXperts framework for addressing Validation Overfitting*
 
-![jsd_partition_skin(1)](https://github.com/user-attachments/assets/6c10adc3-1a9a-4a06-a505-4b24a1be115a)
+![jsd_partition_skin](https://github.com/user-attachments/assets/c27b32aa-c8e4-49d9-af47-e224b83d6cc0)
+
 
 ## How it works:
 
