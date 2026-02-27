@@ -5,6 +5,11 @@ Creates shifted-variants of a given dataset for simulating realistic/challenging
 
 ![jsd_partition_skin](https://github.com/user-attachments/assets/c27b32aa-c8e4-49d9-af47-e224b83d6cc0)
 
+Distribution-Shifted Train/Test partitioning based on the proposed JSD-guided clustering algorithm applied on Skin
+Cancer dataset. The goal of the method is to partition a dataset into training and test subsets such that the JSD between their
+distributions is maximized. This process generates distributionally shifted splits that simulate realistic and challenging learning
+scenarios. Such splits are useful for reliably benchmarking a model’s robustness to validation overfitting. Visual inspection
+reveals distinct data characteristics across the two subsets, emphasizing the diversity of the resulting partitions.
 
 ## How it works:
 
